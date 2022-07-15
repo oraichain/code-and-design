@@ -2117,9 +2117,10 @@ class StyleBuilder {
     }
 
 }
-```
 
 <View style='color-red;background-blue;width-500' />
+
+```
 
 ## 🥌 Null Object
 
